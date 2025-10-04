@@ -5,7 +5,7 @@ load_dotenv()
 #os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 #os.environ["OPENAI_MODEL_NAME"]="gpt-4-0125-preview"
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = 
 os.environ["OPENAI_API_KEY"]=""
 
 from langchain_community.llms import HuggingFaceHub
