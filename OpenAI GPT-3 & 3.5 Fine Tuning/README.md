@@ -1,4 +1,4 @@
-# 🤖 LLM Fine‐Tuning – GPT-3 & GPT-3.5
+# 🤖 LLM Fine‐Tuning – GPT-3.5
 
 A generative-AI project focused on fine-tuning GPT‑3 and GPT‑3.5 Turbo using the OpenAI API for customised text-generation tasks.
 
