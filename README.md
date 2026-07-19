@@ -1,6 +1,6 @@
 # Gen AI Projects
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f57329b7-047e-41f3-89b2-b5b8b16bf57a" />
+<img width="1280" height="720" alt="Default (5)" src="https://github.com/user-attachments/assets/e06c853f-77b6-482d-9a14-95e748bba773" />
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
